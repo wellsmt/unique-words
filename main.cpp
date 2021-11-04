@@ -3,6 +3,7 @@
 #include <fstream>
 #include <string>
 #include <set>
+#include "ctpl.h"
 
 int main(int argc, char *argv[])
 {
